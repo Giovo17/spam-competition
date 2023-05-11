@@ -1,0 +1,19 @@
+For information about the data and methods, see:
+
+https://www.kaggle.com/code/dbarbashov/spam-url-classification-r-attempt/notebook
+https://towardsdatascience.com/spam-messages-classification-3a7ede4f8ba1
+
+The set contains text data. First you have to transform text data in numerical data
+(discover how).
+
+Target Variable to predicted: "class" (in the training set)
+Two classes: "spam" and "ham" 
+
+The folder contains three datasets:
+
+learning data: about 80% of the units of the original dataset
+test data: about 20% of the units of the original dataset
+
+The test set does not contain the target variable. The true values of the target variable will be discussed during the exam.
+
+Model the train data according to the logistic regression and provide the file of the test data with the predicted values
